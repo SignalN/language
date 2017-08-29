@@ -1,5 +1,4 @@
-import tokens
-
+import language.tokens
 
 def __ngrams(s, n=3):
     """ Raw n-grams from a sequence

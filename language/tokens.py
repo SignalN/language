@@ -1,6 +1,8 @@
 """
     language.tokens is a module for splitting text into word-like tokens.
 
+    TODO: context, handle char like '-' differently inside a word
+
 """
 
 def __space(s, filter_fn):
