@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
   name = 'language',
-  packages = ['language.chars', 'language.tokens', 'language.ngrams'],
+  packages = ['language'],
   version = '0.5',
   description = 'Basic tools for working with natural language text data',
   author = 'Signal N',
